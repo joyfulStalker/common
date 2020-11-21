@@ -1,0 +1,4 @@
+## 自动注入
+## org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+## com.lsl.multidatasource.aop.MultiDataSourceAspect,\
+## com.lsl.multidatasource.conf.DynamicDataSourceConfiguration
